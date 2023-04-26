@@ -29,7 +29,7 @@ public class ArrayList01 {
 		for(int i=0;i<list.size();i++) {
 			list.set(i,  i+"");   // object set(int index, Object obj)
 		}
-		System.out.println(list);
+		System.out.println(list); 
 //		System.out.println("{");
 //		for(int i=0;i<list.size();i++) {
 //			System.out.println(list.get(i)+", "); // object get(int index)
