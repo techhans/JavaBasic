@@ -13,7 +13,7 @@ public class SequentialSearch {
 		int[] arr = {1,29,9,7,3,11,5,109,292,30};
 		
 		int n = arr.length;
-		int[] data = new int[n];
+		int[] data = new int[n]; 
 		for(int i=0;i<n;i++) {
 			//data[i] = Integer.parseInt(s[i]);
 			//System.out.println("[DEBUG]arr["+i+"]:"+arr[i]);
